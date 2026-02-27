@@ -53,7 +53,7 @@ https://github.com/anmolsodhi848-wq/ICC-Tournament-Performance-Analytics-1975-20
 
 ## Dashboard
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000c90c7209abe7c7fc8c294ef2&ts=492268&p=fs&cid=1&sig=85cea47fb98d28e0e527729ae707a9b96102df13993191125cc79147f33536ff&v=0
+<img width="1907" height="975" alt="image" src="https://github.com/user-attachments/assets/c3dcf9b5-e8ce-409c-9e99-41622d1b334e" />
 
 
 ## Project Insights

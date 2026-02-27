@@ -1,2 +1,10 @@
 # ICC-Tournament-Performance-Analytics-1975-2025-
-An interactive analytical project that visualizes historical ICC tournament performance across major formats. The dashboard analyzes tournament wins, final appearances, semi-final consistency, and hosting distribution by country, offering a data-driven perspective on cricketing dominance from 1975 to 2025.
+
+## Project Objective
+
+Deliver a data-driven analysis of ICC tournaments (1975–2025) to identify sustained high performers, compare cross-format dominance, assess hosting impact, analyze competitive trends, benchmark cricketing ecosystems, and convert historical data into strategic performance intelligence.
+
+
+## Dataset Source
+
+

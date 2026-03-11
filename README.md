@@ -12,11 +12,11 @@ https://github.com/anmolsodhi848-wq/ICC-Tournament-Performance-Analytics-1975-20
 
 ## Key Performance Indicators (KPIs)
 
-1. **Total Number of ICC Tournaments Hosted-**33
-2. **Total ODI World Cups Hosted-**12
-3. **Total T20 World Cups Hosted-**9
-4. **Total Champions Trophy Editions Hosted-**9
-5. **Total World Test Championships Hosted-**3
+1. Total Number of ICC Tournaments Hosted-33
+2. Total ODI World Cups Hosted-12
+3. Total T20 World Cups Hosted-9
+4. Total Champions Trophy Editions Hosted-9
+5. Total World Test Championships Hosted-3
 
 
 ## Process
